@@ -10,5 +10,5 @@ def estimate_pi(n):
     return z
 
 #testujemy dla roznych wartosci
-for n in [1000, 10000, 100000, 1000000]:
+for n in [1000, 10000, 100000, 1000000, 10000000, 100000000]:
     print(estimate_pi(n))
