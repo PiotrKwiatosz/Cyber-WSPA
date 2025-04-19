@@ -21,4 +21,3 @@ data = client_socket.recv(1024) # Odbierz maksymalnie 1024 bajty danych
 
 client_socket.close()
 server_socket.close()
-
