@@ -2,6 +2,7 @@ import socket
 import time
 import datetime
 
+
 TUNEL_HOST = "127.0.0.1"
 TUNEL_PORT = 2000  # port przekierowany z Azure
 INTERVAL_SEK = 60
